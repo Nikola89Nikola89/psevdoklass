@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 17" width="24" height="17">
+	<title>css_template_06</title>
+	<defs>
+		<image  width="199" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMcAAAAsCAMAAADmWFy1AAAAAXNSR0IB2cksfwAAAJNQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezO5vzGQAAADF0Uk5TACJjm8Pl8P+cEHHPDIXxUwidmcIRE9DICZdUDufpcnAhZMTj5PKfaCQlD1WYFOYNI6BY0MEAAAFfSURBVHic3ZqNUoJAFEYvxhqCIJSCQVRQaX9q7/90CU6EKI2wd+Zj9zzB+Ya9u3vvQnSMMboyxfh6yIyFaY0M+oeJ7aAlL8axJy0ppq6HluuE507PxZgJtFhnxOwkhR+gpXpx4zcq4xZt1BNzXo+xUKe+m4SL2qKK0DYSRMsqxx3aRYqg2qnQJpLEhxjJPVpEkjQpc7hoD2nccssd9m3qEsbFFeUBbcHA4z6HukfHHw7RE9qBBYMytAILGVloBRYsMtEKLOT0jFZg4YXU6gHbeCW0ARPa5NBlXelR54JytAILkSbn4IrWaAUW1vSGVmDhXZt7uzZ9lC59rS5zBkpStIck6cdhgBWjRST5/B0ofqFNpKjmorTUZE5NmxBt05twU38Amavaph+/4xD5K7RRL5rvasWutUVLdWYbn6TYs1Pu3Xl3LkZRJbY69R62/gdQYmRWLob9XTyRB9l3w/sH75ztkmhMpgwAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { opacity: .8;fill: #ffffff } 
+	</style>
+	<g id="BUTTONS">
+		<g id="Button">
+			<use id="Rounded Rectangle 1" href="#img1" x="-150" y="-14"/>
+			<path id="Shape 2" class="s0" d="m1 7h16l-2.6-6 7.6 7-7.6 7 2.6-6h-16z"/>
+		</g>
+	</g>
+	<g id="LIST">
+	</g>
+</svg>

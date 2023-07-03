@@ -1,0 +1,118 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 19" width="28" height="19">
+	<title>css_template_06</title>
+	<defs>
+		<image  width="199" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMcAAAAsCAMAAADmWFy1AAAAAXNSR0IB2cksfwAAAJNQTFRFgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBs1iOUAAAADF0Uk5TACJjm8Pl8P+cEHHPDIXxUwidmcIRE9DICZdUDufpcnAhZMTj5PKfaCQlD1WYFOYNI6BY0MEAAAFfSURBVHic3ZqNUoJAFEYvxhqCIJSCQVRQaX9q7/90CU6EKI2wd+Zj9zzB+Ya9u3vvQnSMMboyxfh6yIyFaY0M+oeJ7aAlL8axJy0ppq6HluuE507PxZgJtFhnxOwkhR+gpXpx4zcq4xZt1BNzXo+xUKe+m4SL2qKK0DYSRMsqxx3aRYqg2qnQJpLEhxjJPVpEkjQpc7hoD2nccssd9m3qEsbFFeUBbcHA4z6HukfHHw7RE9qBBYMytAILGVloBRYsMtEKLOT0jFZg4YXU6gHbeCW0ARPa5NBlXelR54JytAILkSbn4IrWaAUW1vSGVmDhXZt7uzZ9lC59rS5zBkpStIck6cdhgBWjRST5/B0ofqFNpKjmorTUZE5NmxBt05twU38Amavaph+/4xD5K7RRL5rvasWutUVLdWYbn6TYs1Pu3Xl3LkZRJbY69R62/gdQYmRWLob9XTyRB9l3w/sH75ztkmhMpgwAAAAASUVORK5CYII="/>
+		<image  width="199" height="44" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMcAAAAsCAMAAADmWFy1AAAAAXNSR0IB2cksfwAAAJNQTFRFOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWOlhWYgBT2wAAADF0Uk5TACJjm8Pl8P+cEHHPDIXxUwidmcIRE9DICZdUDufpcnAhZMTj5PKfaCQlD1WYFOYNI6BY0MEAAAFfSURBVHic3ZqNUoJAFEYvxhqCIJSCQVRQaX9q7/90CU6EKI2wd+Zj9zzB+Ya9u3vvQnSMMboyxfh6yIyFaY0M+oeJ7aAlL8axJy0ppq6HluuE507PxZgJtFhnxOwkhR+gpXpx4zcq4xZt1BNzXo+xUKe+m4SL2qKK0DYSRMsqxx3aRYqg2qnQJpLEhxjJPVpEkjQpc7hoD2nccssd9m3qEsbFFeUBbcHA4z6HukfHHw7RE9qBBYMytAILGVloBRYsMtEKLOT0jFZg4YXU6gHbeCW0ARPa5NBlXelR54JytAILkSbn4IrWaAUW1vSGVmDhXZt7uzZ9lC59rS5zBkpStIck6cdhgBWjRST5/B0ofqFNpKjmorTUZE5NmxBt05twU38Amavaph+/4xD5K7RRL5rvasWutUVLdWYbn6TYs1Pu3Xl3LkZRJbY69R62/gdQYmRWLob9XTyRB9l3w/sH75ztkmhMpgwAAAAASUVORK5CYII="/>
+		<image  width="292" height="50" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASQAAAAyAQMAAADPzzSdAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABdJREFUeJxjYBgFo2AUjIJRMApGAS0BAAdsAAF2fdvaAAAAAElFTkSuQmCC"/>
+		<image  width="292" height="50" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASQAAAAyAQMAAADPzzSdAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABdJREFUeJxjYBgFo2AUjIJRMApGAS0BAAdsAAF2fdvaAAAAAElFTkSuQmCC"/>
+		<image  width="25" height="19" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezH0MUgAAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+		<image  width="25" height="19" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRF1Vpa1Vpa1Vpa1Vpa1Vpa1Vpa1Vpa1Vpa1Vpa1Vpa1Vpa1VpahQZ8QQAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+		<image  width="25" height="19" id="img7" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezH0MUgAAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+		<image  width="25" height="19" id="img8" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezH0MUgAAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+		<image  width="25" height="19" id="img9" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezH0MUgAAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+		<image  width="25" height="19" id="img10" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezH0MUgAAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+		<image  width="25" height="19" id="img11" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezH0MUgAAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+		<image  width="25" height="19" id="img12" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezgLezH0MUgAAAAAx0Uk5TAJ//Xy8Pf8/vr09vSCngugAAAGNJREFUeJxjYIABRmUGJCCkZIDgMCopKSNLKSk5IEkpKaJICQBp1hRkqXANBySpIqUWJCklJQ0HmBSDE5DRCTeQWQkCBCBmG4E5MLuYkaUgkghnMCNLgSQRUiBJJCkGhtUwBgC0+Q8b5QEMAAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { opacity: .8;fill: #ffffff } 
+		.t1 { font-size: 14px;line-height: 40px;text-transform: uppercase;fill: #ffffff;font-family: "Arial" } 
+		.t2 { font-size: 14px;line-height: 40px;text-transform: uppercase;fill: #000000;font-family: "Arial" } 
+		.t3 { font-size: 20px;line-height: 36px;fill: #273d46;font-family: "Arial" } 
+		.t4 { font-size: 20px;line-height: 36px;fill: #d55a5a;font-family: "Arial" } 
+		.t5 { font-size: 20px;line-height: 36px;text-transform: uppercase;fill: #273d46;font-family: "Arial" } 
+		.t6 { font-size: 20px;line-height: 36px;text-decoration: line-through;fill: #273d46;font-family: "Arial" } 
+	</style>
+	<g id="BUTTONS">
+		<g id="Button">
+			<path id="Shape 2" class="s0" d="m6 11h16l-2.6-6 7.6 7-7.6 7 2.6-6h-16z"/>
+		</g>
+		<g id="Button copy">
+			<use id="Rounded Rectangle 1" href="#img1" x="446" y="-10"/>
+			<text id="Full Story" style="transform: matrix(1,0,0,1,475.352,16.865)" >
+				<tspan x="0" y="0" class="t1" dx="0 3 3 3 3 3 3 3 3 3 3" >FULL STORY
+</tspan>
+			</text>
+			<path id="Shape 2" class="s0" d="m597 11h16l-2.6-6 7.6 7-7.6 7 2.6-6h-16z"/>
+			<text id="При нажатии" style="transform: matrix(1,0,0,1,480.611,-24.406)" >
+				<tspan x="0" y="0" class="t2" dx="0 3 3 3 3 3 3 3 3 3 3 3" >ПРИ НАЖАТИИ
+</tspan>
+			</text>
+		</g>
+		<g id="Button copy 2">
+			<use id="Rounded Rectangle 1" href="#img2" x="151" y="-10"/>
+			<text id="Full Story" style="transform: matrix(1,0,0,1,180.352,16.865)" >
+				<tspan x="0" y="0" class="t1" dx="0 3 3 3 3 3 3 3 3 3 3" >FULL STORY
+</tspan>
+			</text>
+			<path id="Shape 2" class="s0" d="m302 11h16l-2.6-6 7.6 7-7.6 7 2.6-6h-16z"/>
+			<text id="При наведении" style="transform: matrix(1,0,0,1,173.611,-24.406)" >
+				<tspan x="0" y="0" class="t2" dx="0 3 3 3 3 3 3 3 3 3 3 3 3 3" >ПРИ НАВЕДЕНИИ
+</tspan>
+			</text>
+		</g>
+	</g>
+	<g id="INPUT">
+		<use id="Layer 1 copy" href="#img3" x="-168" y="159"/>
+		<use id="Layer 1 copy 2" href="#img4" x="204" y="159"/>
+		<text id="Фокус" style="transform: matrix(1,0,0,1,205.611,138.594)" >
+			<tspan x="0" y="0" class="t2" dx="0 3 3 3 3 3" >ФОКУС
+</tspan>
+		</text>
+	</g>
+	<g id="LIST">
+		<g id="Group 1 copy">
+			<text id="Put on this page information about your product    " style="transform: matrix(1,0,0,1,-134,-255)" >
+				<tspan x="0" y="0" class="t3">P</tspan><tspan  y="0" class="t3">ut on this page information about your product
+</tspan>
+			</text>
+			<text id="Associate the page with the payment system" style="transform: matrix(1,0,0,1,-135.365,-150.51)" >
+				<tspan x="0" y="0" class="t3">Associate the page with the payment system
+</tspan>
+			</text>
+			<text id="A detailed description of your product" style="transform: matrix(1,0,0,1,-133.788,-223.294)" >
+				<tspan x="0" y="0" class="t4">A detailed description of your product
+</tspan>
+			</text>
+			<text id="Tell us about the advantages and merits" style="transform: matrix(1,0,0,1,-135.703,-186.828)" >
+				<tspan x="0" y="0" class="t3">Tell us about the advantages and merits
+</tspan>
+			</text>
+			<use id="check icon" href="#img5" x="-169" y="-272"/>
+			<use id="check icon" href="#img6" x="-170" y="-238"/>
+			<use id="check icon" href="#img7" x="-170" y="-202"/>
+			<use id="check icon" href="#img8" x="-170" y="-166"/>
+			<text id="При наведении &gt; copy" style="transform: matrix(1,0,0,1,-393.389,-224.406)" >
+				<tspan x="0" y="0" class="t2" dx="0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3" >ПРИ НАВЕДЕНИИ &gt;
+</tspan>
+			</text>
+		</g>
+		<g id="Group 1">
+			<text id="Associate the page with the payment system" style="transform: matrix(1,0,0,1,-135.365,-350.51)" >
+				<tspan x="0" y="0" class="t5">ASSOCIATE THE PAGE WITH THE PAYMENT SYSTEM
+</tspan>
+			</text>
+			<text id="Tell us about the advantages and merits" style="transform: matrix(1,0,0,1,-135.703,-386.828)" >
+				<tspan x="0" y="0" class="t3">Tell us about the advantages and merits
+</tspan>
+			</text>
+			<text id="A detailed description of your product" style="transform: matrix(1,0,0,1,-133.788,-423.294)" >
+				<tspan x="0" y="0" class="t3">A detailed description of your product
+</tspan>
+			</text>
+			<text id="Put on this page information about your product    " style="transform: matrix(1,0,0,1,-134,-455)" >
+				<tspan x="0" y="0" class="t6">P</tspan><tspan  y="0" class="t6">ut on this page information about your product
+</tspan>
+			</text>
+			<use id="check icon" href="#img9" x="-169" y="-472"/>
+			<use id="check icon" href="#img10" x="-170" y="-438"/>
+			<use id="check icon" href="#img11" x="-170" y="-402"/>
+			<use id="check icon" href="#img12" x="-170" y="-366"/>
+			<text id="Стилизируй с помощью псевдоклассов" style="transform: matrix(1,0,0,1,-169.389,-497.406)" >
+				<tspan x="0" y="0" class="t2" dx="0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3" >СТИЛИЗИРУЙ С ПОМОЩЬЮ ПСЕВДОКЛАССОВ
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
